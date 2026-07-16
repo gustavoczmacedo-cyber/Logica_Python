@@ -1,2 +1,1 @@
-# Meus Estudos de Lógica
-# Logica_Python
+# Lógica_Programa-o
